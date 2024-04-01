@@ -1,0 +1,154 @@
+.login-child {
+  position:fixed;
+  top: 0;
+  left: 0;
+  border-radius: 0 var(--br-16xl) var(--br-16xl) 0;
+  background-color: var(--color-white);
+  width: 627px;
+  height: 790px;
+}
+.create-an-account,
+.remember-password {
+  text-decoration: none;
+  position: absolute;
+  color: var(--color-black-100);
+}
+.create-an-account {
+  top: 632px;
+  left: 307px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.remember-password {
+  top: 499px;
+  left: 130px;
+  font-size: 20px;
+  font-weight: 500;
+}
+.forgot-password{
+  text-decoration: none;
+  position: absolute;
+  color: #1faab2;
+}
+.forgot-password{
+  top: 499px;
+  left: 395px;
+  font-size: 17px;
+  font-weight: 500;
+}
+.password {
+  position: absolute;
+  top: 370px;
+  left: 94px;
+}
+.welcome-to-ezbillify {
+  position: absolute;
+  top: 127px;
+  left: 136px;
+  font-size: var(--font-size-11xl);
+}
+.login-item {
+  position: absolute;
+  height: 5.66%;
+  width: 17.36%;
+  top: 5%;
+  right: 76.11%;
+  bottom: 87.04%;
+  left: 6.53%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.your-admin-panel {
+  position: absolute;
+  top: 175px;
+  left: 136px;
+  font-size: var(--font-size-6xl);
+  font-weight: 500;
+}
+.login-inner,
+.rectangle-input {
+  border: 2px solid var(--color-gray);
+  outline: 0;
+  background-color: var(--color-white);
+  position: absolute;
+  top: 284px;
+  left: 94px;
+  border-radius: var(--br-3xs);
+  font-size: large;
+  box-sizing: border-box;
+  width: 446px;
+  height: 65px;
+}
+.rectangle-input {
+  top: 405px;
+}
+.group-input,
+.username {
+  position: absolute;
+  top: 250px;
+  left: 94px;
+}
+.group-input {
+  margin: 0;
+ 
+  top: 500px;
+  left: 7%;
+  width: 20px;
+  height: 20px;
+}
+.group-child {
+  position: absolute;
+  bottom: 190%;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-lightseagreen-100);
+  width: 446px;
+  height: 65px;
+}
+.sign-in {
+  position: absolute;
+  bottom: 220%;
+  left: 183px;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-plus-jakarta-sans);
+  color: var(--color-white);
+  text-align: left;
+}
+.rectangle-parent {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 670px;
+  left: 94px;
+  width: 446px;
+  height: 65px;
+}
+.new-to-ezbillify {
+  position: absolute;
+  top: 632px;
+  left: 143px;
+}
+.robot-checking-user-profile-1-icon {
+  position: relative;
+  top: 77px;
+  left: 572px;
+  width: 910px;
+  height: 650px;
+  overflow: hidden;
+}
+.login {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(#1faab2, #1faab2), #f4f7fc;
+  height: 789px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-plus-jakarta-sans);
+}

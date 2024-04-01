@@ -1,0 +1,27 @@
+.contact-us-create-an-account-child {
+  position: absolute;
+  top: 52px;
+  left: calc(50% - 640px);
+  border-radius: var(--br-6xl);
+  background-color: var(--color-white);
+  width: 1286px;
+  height: 101px;
+}
+.back-1-icon {
+  position: absolute;
+  top: 70px;
+  left: 100px;
+  width: 65px;
+  height: 65px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.contact-us-create-an-account {
+  text-decoration: none;
+  width: 100%;
+  position: relative;
+  background: linear-gradient(rgba(31, 170, 178, 0.5), rgba(31, 170, 178, 0.5)),
+    #fff;
+  height: 1024px;
+  overflow: hidden;
+}

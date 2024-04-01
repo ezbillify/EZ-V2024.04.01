@@ -1,0 +1,112 @@
+.group-child40,
+.payments-due-child {
+  position: absolute;
+  background-color: var(--color-white);
+}
+.payments-due-child {
+  top: 52px;
+  left: calc(50% - 640px);
+  border-radius: var(--br-6xl);
+  width: 1286px;
+  height: 101px;
+}
+.group-child40 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  border: 1px solid var(--color-gray);
+  box-sizing: border-box;
+  width: 200px;
+  height: 45px;
+}
+.search-1-icon11 {
+  position: absolute;
+  top: 10px;
+  left: 13px;
+  width: 25px;
+  height: 25px;
+  overflow: hidden;
+}
+.search-for-something11 {
+  position: absolute;
+  top: 15px;
+  left: 48px;
+}
+.group-child41,
+.rectangle-parent21 {
+  position: absolute;
+  top: 80px;
+  left: 793px;
+  width: 200px;
+  height: 45px;
+}
+.group-child41 {
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-lightseagreen-100);
+  width: 65px;
+  height: 65px;
+}
+.short-hair-man-with-vr-1-icon15 {
+  position: absolute;
+  top: 9px;
+  left: 8px;
+  width: 50px;
+  height: 47px;
+  object-fit: cover;
+}
+.ellipse-parent12 {
+  position: absolute;
+  top: 70px;
+  left: 1253px;
+  width: 65px;
+  height: 65px;
+}
+.notification-1-icon11 {
+  position: absolute;
+  top: 80px;
+  left: 1158px;
+  width: 45px;
+  height: 45px;
+  overflow: hidden;
+}
+.payments-due-item {
+  position: absolute;
+  top: 70px;
+  left: 1043px;
+  width: 65px;
+  height: 65px;
+}
+.payments-due2 {
+  position: absolute;
+  top: 84px;
+  left: calc(50% - 525px);
+  font-size: var(--font-size-11xl);
+  display: inline-block;
+  width: 233px;
+}
+.back-1-icon8 {
+  position: absolute;
+  top: 70px;
+  left: 100px;
+  width: 65px;
+  height: 65px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.payments-due1 {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(
+      rgba(31, 170, 178, 0.75),
+      rgba(31, 170, 178, 0.75)
+    ),
+    #fff;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-smi);
+  color: var(--color-black);
+  font-family: var(--font-plus-jakarta-sans);
+}

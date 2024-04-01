@@ -1,0 +1,11 @@
+.balance-sheet {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(
+      rgba(31, 170, 178, 0.75),
+      rgba(31, 170, 178, 0.75)
+    ),
+    #fff;
+  height: 1024px;
+  overflow: hidden;
+}
